@@ -1,0 +1,6 @@
+setup.py
+mxaddress.egg-info/PKG-INFO
+mxaddress.egg-info/SOURCES.txt
+mxaddress.egg-info/dependency_links.txt
+mxaddress.egg-info/requires.txt
+mxaddress.egg-info/top_level.txt
